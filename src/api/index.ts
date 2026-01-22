@@ -8,7 +8,7 @@ const env = isProduction();
  * 么么么么哒😘😍😘😍😘😍😘😍😘😍😘😍
  * 么么么么哒😘😍😘😍😘😍😘😍😘😍😘😍
  */
-const musicLocalUrl = env ? "//cloudmusic-sable.vercel.app" : "//localhost:3000";
+const musicLocalUrl = env ? "//https://13413.kstore.vip/QingMusic/music.json" : "//localhost:3000";
 
 export const Api = {
     MUSIC: {
